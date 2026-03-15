@@ -11,3 +11,6 @@ Aplicación en Java 21 desarrollada para la asignatura de **Sistemas de Bases de
 1. **Compilar el proyecto:**
    ```bash
    mvn clean install
+
+## 👨‍💻 Autor
+Víctor García Crespo
