@@ -5,3 +5,9 @@ Aplicación en Java 21 desarrollada para la asignatura de **Sistemas de Bases de
 - **Maven**
 - **Jakarta JSON API & Yasson (JSON-B)**
 - **Lombok**
+
+## ⚙️ Instalación y Ejecución
+*Requiere JDK 21 y Maven instalados.*
+1. **Compilar el proyecto:**
+   ```bash
+   mvn clean install
